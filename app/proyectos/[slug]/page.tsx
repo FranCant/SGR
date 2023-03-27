@@ -1,4 +1,4 @@
-import ProjectCard from "@/app/components/ProjectCard";
+import ProjectCard from "@/components/ProjectCard";
 import { sanityClient } from "@/lib/client";
 import { CategoryFetch, Params } from "@/typing";
 

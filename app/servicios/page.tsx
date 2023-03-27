@@ -1,6 +1,6 @@
 import React from "react";
-import { Services } from "../components/Services";
-import Work from "../components/Works";
+import { Services } from "../../components/Services";
+import Work from "../../components/Works";
 
 const page = () => {
   return (

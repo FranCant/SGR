@@ -1,5 +1,5 @@
 import { sanityClient } from "@/lib/client";
-import ProjectDetail from "@/app/components/ProjectDetail";
+import ProjectDetail from "@/components/ProjectDetail";
 
 const projectFetch = async (slugProject:string) => {
   const query = `*[_type == "projects" && slug.current == $slugProject][0]`;

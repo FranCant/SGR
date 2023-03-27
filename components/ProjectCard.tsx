@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
 import { BsArrowRight } from "react-icons/bs";
-import { urlFor } from "../../lib/client";
+import { urlFor } from "../lib/client";
 import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { Project } from "@/typing";

@@ -1,5 +1,5 @@
 import { Category, CategoryFetch } from "@/typing";
-import { sanityClient } from "../../lib/client";
+import { sanityClient } from "../lib/client";
 import CategoryCard from "./CategoryCard";
 
 

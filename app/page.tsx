@@ -1,8 +1,8 @@
-import CategoryList from "./components/CategoryList";
-import Contact from "./components/Contact";
-import Hero from "./components/Hero";
-import SectionCompany from "./components/SectionCompany";
-import Sponsor from "./components/Sponsor";
+import CategoryList from "../components/CategoryList";
+import Contact from "../components/Contact";
+import Hero from "../components/Hero";
+import SectionCompany from "../components/SectionCompany";
+import Sponsor from "../components/Sponsor";
 
 export default function Home() {
   return (
